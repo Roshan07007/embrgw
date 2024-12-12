@@ -1,0 +1,136 @@
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            font-size: 16px;
+            font-family: "Lato", sans-serif;
+            font-weight: 400;
+            line-height: 1.8em;
+            color: #666;
+        }
+        
+        .pimg1 {
+            background-image: url(alpha\ \(2\).png);
+            min-height: 100%;
+        }
+        
+        #roshan1 {
+            width: 140px;
+            width: 140px;
+            border-radius: calc(100%);
+            position: relative;
+            top: -150px;
+            right: -225px;
+        }
+        
+        #img5 {
+            position: relative;
+            width: 45px;
+            height: 45px;
+            display: flex;
+            padding: 1px;
+            border-radius: 120px;
+            right: -7px;
+        }
+        
+        h1 {
+            right: -11px;
+            position: relative;
+            top: -14px;
+            /* background-color: pink; */
+            font-size: 10px;
+            color: #282e34;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            width: 60px;
+            height: 20px;
+            border-radius: 12px;
+            padding-bottom: 7px;
+            padding-left: 7px;
+            border-color: #f8f2f2;
+            font-size: 20px;
+        }
+        
+        #img0 {
+            padding: 5px;
+            position: relative;
+            right: -1370px;
+            /* position: absolute; */
+        }
+        
+        #img6 {
+            position: relative;
+            left: 1270px;
+            border-radius: 100px;
+            padding: 5px;
+        }
+        
+        #nav1 {
+            position: relative;
+            color: pink;
+            padding: 4px;
+            font-size: 30px;
+            width: 100%px;
+            height: 45px;
+            background-color: #f6b1d8;
+            border-color: wheat;
+            border-radius: 120px;
+            top: -357px;
+            display: flex;
+            position: relative;
+        }
+        
+        .pimg2 {
+            background-image: url(desola-lanre-ologun-vII7qKAk-9A-unsplash.jpg);
+            min-height: 400px;
+        }
+        
+        .pimg3 {
+            min-height: 400px;
+            background-image: url(blake-connally-B3l0g6HLxr8-unsplash.jpg);
+        }
+        
+        .pimg1,
+        .pimg2,
+        .pimg3 {
+            position: relative;
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+        
+        .ptext {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            text-align: center;
+            color: black;
+            font-size: 27px;
+            letter-spacing: 8px;
+            text-transform: uppercase;
+        }
+        
+        .textBg {
+            background: none;
+            color: #fcf8f8;
+            padding: 20px;
+            font-size: xx-large;
+            position: relative;
+            left: -50px;
+            font-style: oblique;
+        }
+        
+        .section {
+            padding: 50px 80px;
+            text-align: center;
+        }
+        
+        .section-light {
+            background-color: #f4f4f4;
+            color: #666;
+        }
+        
+        .section-dark {
+            background-color: #282e34;
+            color: #ddd;
+        }
